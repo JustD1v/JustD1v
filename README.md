@@ -6,4 +6,4 @@ Full-Stack Developer at [DevHub V2](https://discord.gg/7TRdUncbr8);<br>
 
 - 🌍 I'm mostly active within **DevHub**
 - 💬 `ping` me about **bugs**, **questions**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,lua)](https://skillicons.dev)
