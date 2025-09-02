@@ -2,7 +2,7 @@
 
 #### Owner of DevHub V2 ☾
 
-Full-Stack Developer at [DevHub V2](https://discord.gg/7TRdUncbr8);<br>
+Full-Stack Developer at [DevHub V2](https://discord.gg/7TRdUncbr8)
 
 - 🌍 I'm mostly active within **Discord**
 - 💬 `ping` me about **bugs**, **questions**
